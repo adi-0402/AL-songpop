@@ -24,10 +24,11 @@ Consultas y Navegación:
 ![demo_1](https://github.com/user-attachments/assets/200b7370-f8ec-4609-aa5b-ac6f9974e360)
 ![demo_2](https://github.com/user-attachments/assets/9cb20d81-e21e-487d-9a1c-f43952d663b4)
 ![demo_3](https://github.com/user-attachments/assets/670f09df-c820-46f1-ab97-04fb1c473c4f)
-![demo_4](https://github.com/user-attachments/assets/a36c7e12-969c-411c-88cf-c4d89c45db1f)
-![demo_5](https://github.com/user-attachments/assets/5943d3a8-9def-4282-b326-3c76a70d0783)
 ![demo_6](https://github.com/user-attachments/assets/04d27ae5-af26-451b-8adb-00ede6878128)
 ![demo_7](https://github.com/user-attachments/assets/e1ba14b2-1ba2-40d1-914a-6ed194ddb088)
+![demo_4](https://github.com/user-attachments/assets/a36c7e12-969c-411c-88cf-c4d89c45db1f)
+![demo_5](https://github.com/user-attachments/assets/5943d3a8-9def-4282-b326-3c76a70d0783)
+
 
 
 ## 🛠 Tecnologías Utilizadas
