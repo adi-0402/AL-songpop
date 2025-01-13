@@ -21,7 +21,7 @@ Consultas y Navegación:
 - Consultar la lista completa de canciones o artistas.
 - Muestra datos por nombre de canciones y de artistas.
   
-![Demostracion](img/test.gif)
+![Demostracion](demo.mp4)
 
 ## 🛠 Tecnologías Utilizadas
 - Java 17
