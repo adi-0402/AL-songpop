@@ -1,0 +1,13 @@
+package com.aluracursos.songpop;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SongpopApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
