@@ -1,6 +1,6 @@
 # Song Pop
 ![Java](https://img.shields.io/badge/Java-17-brightgreen)
-![SQL](https://img.shields.io/badge/PostgreSQL)
+![SQL](https://img.shields.io/badge/SQL-Postgre)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey)
 ![Estado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
 
