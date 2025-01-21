@@ -2,6 +2,8 @@
 
 # SongPop 
 
+---
+
 ## 🔖 Descripción del Proyecto
 SongPop es una aplicación para gestionar datos de artistas y canciones. Permite registrar, buscar y visualizar información relacionada con artistas y sus canciones. Este proyecto está desarrollado como una aplicación de consola, lo que facilita la interacción con los datos a través de menús y comandos. Utiliza Java 17 junto con Spring Framework y una base de datos en PostgreSQL. Este proyecto se realizo con Alura Latam.
 
